@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\test_3_18\test_3_18\test.c(1,1): warning C4828: 文件包含在偏移 0x7b7 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test_3_18.vcxproj -> D:\code\test_3_18\x64\Debug\test_3_18.exe
