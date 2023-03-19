@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\test_3_19\test_3_19\test.c(211): warning C4715: “search”: 不是所有的控件路径都返回值
+  test_3_19.vcxproj -> D:\code\test_3_19\x64\Debug\test_3_19.exe
