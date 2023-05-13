@@ -1,0 +1,14 @@
+﻿  test.c
+D:\code\test_5_13\test_5_13\test.c(22,9): warning C4013: “strcmp”未定义；假设外部返回 int
+D:\code\test_5_13\test_5_13\test.c(22,43): warning C4047: “==”:“int”与“void *”的间接级别不同
+D:\code\test_5_13\test_5_13\test.c(23,43): warning C4047: “==”:“int”与“void *”的间接级别不同
+D:\code\test_5_13\test_5_13\test.c(29,24): error C2057: 应输入常量表达式
+D:\code\test_5_13\test_5_13\test.c(29,25): error C2466: 不能分配常量大小为 0 的数组
+D:\code\test_5_13\test_5_13\test.c(29,20): error C2133: “arr”: 未知的大小
+D:\code\test_5_13\test_5_13\test.c(30,21): warning C4013: “time”未定义；假设外部返回 int
+D:\code\test_5_13\test_5_13\test.c(40,16): error C2001: 常量中有换行符
+D:\code\test_5_13\test_5_13\test.c(41,13): error C2001: 常量中有换行符
+D:\code\test_5_13\test_5_13\test.c(42,1): error C2143: 语法错误: 缺少“)”(在“}”的前面)
+D:\code\test_5_13\test_5_13\test.c(40,16): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\code\test_5_13\test_5_13\test.c(40,16): message : 占位符和其参数预计 4 可变参数，但提供的却是 0 参数
+D:\code\test_5_13\test_5_13\test.c(40,16): message : 缺失的可变参数 1 为格式字符串“%d”所需
