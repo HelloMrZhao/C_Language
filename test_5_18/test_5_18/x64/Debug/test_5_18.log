@@ -1,0 +1,16 @@
+﻿  test.c
+D:\code\test_5_18\test_5_18\test.c(55,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_5_18\test_5_18\test.c(55,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test_5_18\test_5_18\test.c(56,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_5_18\test_5_18\test.c(56,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test_5_18\test_5_18\test.c(59,28): warning C4047: “函数”:“const char *”与“char (*)[7]”的间接级别不同
+D:\code\test_5_18\test_5_18\test.c(59,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\code\test_5_18\test_5_18\test.c(59,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_5_18\test_5_18\test.c(59,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test_5_18\test_5_18\test.c(60,32): warning C4047: “函数”:“const char *”与“char (*)[7]”的间接级别不同
+D:\code\test_5_18\test_5_18\test.c(60,29): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\code\test_5_18\test_5_18\test.c(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_5_18\test_5_18\test.c(60,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\test_5_18\test_5_18\test.c(61,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\test_5_18\test_5_18\test.c(61,9): message : 请考虑在格式字符串中使用“%zd”
+  test_5_18.vcxproj -> D:\code\test_5_18\x64\Debug\test_5_18.exe
